@@ -1,4 +1,4 @@
-### Hi there 👋<br>
+### Hello 👋<br>
 
 Welcome to my Github profile! My name is Caleb and I am a full time student studying Full-Stack Web Development. Currently, I am proficient in HTML, CSS and JavaScript, and can create small to medium sized web applications. <br>
 
