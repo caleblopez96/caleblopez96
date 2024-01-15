@@ -1,6 +1,6 @@
 ### Hello 👋<br>
 
-Welcome to my Github profile! My name is Caleb and I am a full time student studying Full-Stack Web Development. <br>
+My name is Caleb and I am a full time student studying Full-Stack Web Development at Arizona State University. <br>
 
 I am passionate about logical problem-solving and UI/UX design which made the decision to pursue full-stack web development easy. I prioritize writing maintainable and scalable code and understand how important attention to detail is for a full-stack web developer. <br>
 
