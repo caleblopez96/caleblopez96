@@ -6,4 +6,4 @@ I am passionate about logical problem-solving and UI/UX design which is why I ch
 
 I'm constantly seeking the opportunity to learn and improve my full-stack web development skills. In my free time, I enjoy experimenting with new technologies, frameworks, and languages to expand my knowledge and stay up-to-date with the latest trends in the industry. 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,mysql)](https://skillsicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mysql)](https://skillsicons.dev)
