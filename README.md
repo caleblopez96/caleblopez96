@@ -6,6 +6,6 @@ I am passionate about logical problem-solving and UI/UX design which is why I ch
 
 I'm constantly seeking the opportunity to learn and improve my full-stack web development skills. In my free time, I enjoy experimenting with new technologies, frameworks, and languages to expand my knowledge and stay up-to-date with the latest trends in the industry. <br>
 
-![](https://raw.githubusercontent.com/caleblopez96/github-stats-transparent/output/generated/languages.svg)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=caleblopez96&langs_count=5&theme=tokyonight)]()
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mysql)](https://skillsicons.dev)
