@@ -2,7 +2,10 @@
 
 My name is Caleb and I am a full time student studying full-stack web development at Arizona State University. <br>
 
-I am passionate about logical problem-solving and UI/UX design which is why I chose to pursue full-stack web development. I prioritize writing maintainable and scalable code and understand how important attention to detail is for a full-stack web developer. <br>
+Full-time student currently pursuing my Bachelor of Science in Graphic Information
+Technology with a focus in full-stack web development from Arizona State University. I am
+passionate about solving problems with code, and I thrive on the challenges that web
+development offers.<br>
 
 I'm constantly seeking the opportunity to learn and improve my full-stack web development skills. In my free time, I enjoy experimenting with new technologies, frameworks, and languages to expand my knowledge and stay up-to-date with the latest trends in the industry. <br>
 
