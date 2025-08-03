@@ -1,5 +1,3 @@
 ### Hello 👋<br>
 
-My name is Caleb. I'm currently a full-time student at Arizona State University studying full-stack web
-development. I’m passionate about building web applications and solving problems through
-code. Trying to turn my love and passion for programming into a fulfilling career. Currently preparing for my Summer 2025 Software Developer Internship at Cambridge Investment Research.<br>
+I’m a full-time student at Arizona State University studying full-stack web development, with hands-on experience writing production-level C#, SQL, and JavaScript. I recently completed a software development internship at Cambridge Investment Research, where I built a service that integrated with the FINRA API to automatically update our internal database with the latest regulatory information. I worked primarily with C#, .NET, and SQL, gaining hands-on experience in backend development, API integration, and database operations.
