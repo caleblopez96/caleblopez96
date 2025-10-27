@@ -16,7 +16,7 @@ I’m a web developer and designer who strives to build high-quality web experie
 ## 📫 Let’s Connect
 
 | 🌐 Website | 💼 LinkedIn | 🐙 GitHub | 📧 Email |
-| :----------: | :--------: | :--------: | :-------: | :------: |
+| :----------: | :--------: | :--------: | :-------: |
 | [caleblopez.dev](https://caleblopez.dev/) | [in/caleblopez](https://www.linkedin.com/in/caleblopez96/) | [@caleblopez96](https://github.com/caleblopez96) | [caleblopez96@gmail.com](mailto:caleblopez96@gmail.com) |
 
 ---
