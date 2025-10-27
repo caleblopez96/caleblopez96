@@ -1,6 +1,6 @@
 # Hi, I’m Caleb 👋
 
-I’m a web developer and designer who strives to build high-quality web experiences through clean, maintainable code and thoughtful design. I’m currently working full-time as a Frontend Software Engineer.
+I’m a software developer with over two years of experience building UI’s with React, integrating web APIs, and developing backend services.
 
 ---
 
