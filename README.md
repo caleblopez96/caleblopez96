@@ -20,5 +20,3 @@ I’m a software developer with over two years of experience building UI’s wit
 | [caleblopez.dev](https://caleblopez.dev/) | [in/caleblopez](https://www.linkedin.com/in/caleblopez96/) | [@caleblopez96](https://github.com/caleblopez96) | [caleblopez96@gmail.com](mailto:caleblopez96@gmail.com) |
 
 ---
-
-> *Thanks for stopping by!*
