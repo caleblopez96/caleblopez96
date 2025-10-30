@@ -17,6 +17,5 @@ I’m a software developer with over two years of experience building UI’s wit
 
 | [🌐 Website](https://caleblopez.dev/) | [💼 LinkedIn](https://www.linkedin.com/in/caleblopez96/) | [🐙 GitHub](https://github.com/caleblopez96) | [📧 Email](mailto:caleblopez96@gmail.com) |
 | :----------: | :--------: | :--------: | :-------: |
-| caleblopez.dev | in/caleblopez | @caleblopez96 | caleblopez96@gmail.com |
 
 ---
