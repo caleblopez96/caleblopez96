@@ -15,27 +15,12 @@ I’m a software developer with over two years of experience building UI’s wit
 
 ## 🚀 Projects / Work I'm Interested In
 
-## 🚀 Projects & Work I'm Interested In
-
-### 🌐 Web Development
-**Focus:** Full-stack applications with React, Next.js, Node.js, and .NET  
-**Why I love it:** Crafting interactive, responsive apps that solve real problems.  
-**Check it out:** [caleblopez.dev/projects](https://caleblopez.dev/projects)
-
-### 🔗 API Integration
-**Focus:** Connecting apps to REST APIs, third-party services, and external data sources  
-**Why I love it:** Making apps smarter by letting them talk to other platforms seamlessly.  
-**Example work:** [GitHub](https://github.com/caleblopez96)
-
-### 🎨 UI / UX Design
-**Focus:** Building user-friendly and visually appealing interfaces  
-**Why I love it:** Design is how people feel using your app—good design = happy users.  
-**Portfolio:** [caleblopez.dev/ui](https://caleblopez.dev/ui)
-
-### 🌱 Open Source
-**Focus:** Contributing to projects that help the developer community  
-**Why I love it:** Learning, sharing, and collaborating on tools that matter.  
-**Contributions:** [GitHub](https://github.com/caleblopez96)
+| Project / Area | Focus |
+| :------------: | :---------: |
+| Web Development | Building full-stack apps with React, Next.js, Node, and .NET |
+| API Integration | Connecting apps to REST APIs and external services | 
+| UI / UX Design | Creating responsive and interactive user interfaces |
+| Open Source | Contributing to open-source projects on GitHub |
 
 
 ---
